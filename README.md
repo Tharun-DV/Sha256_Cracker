@@ -1,4 +1,4 @@
-###What is SHA256?
+### What is SHA256?
 SHA256 (Secure Hash Algorithm 256-bit) is a cryptographic hash function that generates a 256-bit (32-byte) hash value from an input. It is widely used in security applications and protocols, including SSL/TLS and cryptographic signatures.
 
 ### Purpose of the Project
